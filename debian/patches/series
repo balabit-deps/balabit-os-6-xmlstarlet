@@ -1,0 +1,3 @@
+40-use-debian-docbook-xsl.patch
+50-fix-format-security.patch
+60-avoid-silent-rules.patch
